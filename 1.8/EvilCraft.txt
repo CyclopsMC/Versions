@@ -1,4 +1,4 @@
-0.8.0
-Initial 1.8 port
-http://bit.ly/1I0fNSS
+0.8.1
+Fix for Blood Stained Block crash
+http://bit.ly/1fGtC1b
 

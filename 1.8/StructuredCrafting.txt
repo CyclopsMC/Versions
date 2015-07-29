@@ -1,4 +1,4 @@
-0.1.0
-Initial release
+0.1.1
+Add wrench behaviour + More flexible crafting detection
 http://bit.ly/1JF2tDO
 
