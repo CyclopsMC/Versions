@@ -1,4 +1,4 @@
-0.8.1
-Fix for Blood Stained Block crash
-http://bit.ly/1fGtC1b
+0.8.2
+Various fixes for crashes
+http://bit.ly/1EOO0t4
 
