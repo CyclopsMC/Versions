@@ -1,4 +1,4 @@
-0.8.2
-Various fixes for crashes
-http://bit.ly/1EOO0t4
+0.8.3
+Fix for invisible Vengeance Spirits attacking the player
+http://bit.ly/1PtmCB9
 

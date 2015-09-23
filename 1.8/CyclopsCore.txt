@@ -1,4 +1,4 @@
-0.1.1
-Fix for version checking crash
-http://bit.ly/1I0Zzen
+0.2.0
+Various fixes and additions to support Integrated Dynamics
+http://bit.ly/1Kv7qlG
 
