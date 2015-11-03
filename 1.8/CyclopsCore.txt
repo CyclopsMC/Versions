@@ -1,4 +1,4 @@
-0.2.0
-Various fixes and additions to support Integrated Dynamics
-http://bit.ly/1Kv7qlG
+0.3.0
+Fixes and additions to support EvilCraft 0.9.0
+http://bit.ly/1SlKuZa
 
