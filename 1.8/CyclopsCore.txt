@@ -1,4 +1,4 @@
-0.3.0
-Fixes and additions to support EvilCraft 0.9.0
-http://bit.ly/1SlKuZa
+0.4.0
+Library additions to support Colossal Chests 1.0.0
+http://bit.ly/1QkJOFb
 
