@@ -1,4 +1,4 @@
-0.4.0
-Library additions to support Colossal Chests 1.0.0
-http://bit.ly/1QkJOFb
+0.4.1
+Small fixes related to Colossal Chests
+http://bit.ly/1j7XCEx
 
