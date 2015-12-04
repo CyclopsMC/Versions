@@ -1,4 +1,4 @@
-1.1.0
-Chest naming and hopper interfacing
-http://bit.ly/1QuHDik
+1.2.0
+Iron Chest integration, fixes and quality-of-life additions.
+http://bit.ly/1N1pO6W
 

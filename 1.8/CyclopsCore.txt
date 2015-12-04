@@ -1,4 +1,4 @@
-0.4.1
-Small fixes related to Colossal Chests
-http://bit.ly/1j7XCEx
+0.4.2
+Changes required for Colossal Chests 1.2.0
+http://bit.ly/1N8Ecsb
 
