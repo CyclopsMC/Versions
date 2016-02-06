@@ -1,4 +1,4 @@
-0.9.1
-Recipe, poison, book and render fixes
-http://bit.ly/2131J73
+0.9.2
+Update to 1.8.9, JEI and Thaumcraft support
+http://bit.ly/1PZIQZY
 

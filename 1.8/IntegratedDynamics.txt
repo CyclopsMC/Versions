@@ -1,4 +1,4 @@
-0.1.0
-Initial release
-http://bit.ly/1YBOOYN
+0.2.0
+Mod integration and many new features
+http://bit.ly/1Xao5Au
 

@@ -1,4 +1,4 @@
-0.4.2
-Changes required for Colossal Chests 1.2.0
-http://bit.ly/1N8Ecsb
+0.5.0
+Update to 1.8.9 and various new lib features
+http://bit.ly/1QjNORy
 

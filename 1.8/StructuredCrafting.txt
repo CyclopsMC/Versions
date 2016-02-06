@@ -1,4 +1,4 @@
-0.1.1
-Add wrench behaviour + More flexible crafting detection
-http://bit.ly/1JF2tDO
+0.1.2
+Update to 1.8.9
+http://bit.ly/1PrmK35
 
