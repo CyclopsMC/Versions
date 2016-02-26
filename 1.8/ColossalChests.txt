@@ -1,4 +1,4 @@
-1.3.1
-Minor fixes related to chest breaking
-http://bit.ly/1PIYB8t
+1.3.2
+Fix items not always dropping after breaking core
+http://bit.ly/1R8a5SX
 

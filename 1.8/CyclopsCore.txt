@@ -1,4 +1,4 @@
-0.5.0
-Update to 1.8.9 and various new lib features
-http://bit.ly/1QjNORy
+0.5.1
+Various small fixes, including inventory handling
+http://bit.ly/1QLu53o
 

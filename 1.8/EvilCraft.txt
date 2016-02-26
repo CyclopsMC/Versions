@@ -1,4 +1,4 @@
-0.9.2
-Update to 1.8.9, JEI and Thaumcraft support
-http://bit.ly/1PZIQZY
+0.9.3
+Restore Sanguinary Chalice and Box of Eternal Closure models, and various fixes
+http://bit.ly/1UpdhPj
 
