@@ -1,4 +1,4 @@
-0.9.3
-Restore Sanguinary Chalice and Box of Eternal Closure models, and various fixes
-http://bit.ly/1UpdhPj
+0.9.4
+Minor fixes
+http://bit.ly/1SVZ78d
 

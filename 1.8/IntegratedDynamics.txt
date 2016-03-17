@@ -1,4 +1,4 @@
-0.2.0
-Mod integration and many new features
-http://bit.ly/1Xao5Au
+0.3.0
+First playable beta release
+http://bit.ly/1PebVQJ
 

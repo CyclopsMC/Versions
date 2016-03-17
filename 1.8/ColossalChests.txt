@@ -1,4 +1,4 @@
-1.3.2
-Fix items not always dropping after breaking core
-http://bit.ly/1R8a5SX
+1.3.3
+Fix hopper bug
+http://bit.ly/1nRnLda
 

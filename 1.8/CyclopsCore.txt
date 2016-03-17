@@ -1,4 +1,4 @@
-0.5.1
-Various small fixes, including inventory handling
-http://bit.ly/1QLu53o
+0.5.2
+Minor fixes
+http://bit.ly/1Vg5DqW
 
