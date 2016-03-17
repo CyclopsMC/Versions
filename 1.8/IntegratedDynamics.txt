@@ -1,4 +1,4 @@
-0.3.1
-Hotfix: crash when a mod is available that adds metal ores
-http://bit.ly/1SWkx58
+0.3.2
+Hotfix: crash caused by null oredict entries
+http://bit.ly/1U9NeND
 
