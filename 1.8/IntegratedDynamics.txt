@@ -1,4 +1,4 @@
-0.3.0
-First playable beta release
-http://bit.ly/1PebVQJ
+0.3.1
+Hotfix: crash when a mod is available that adds metal ores
+http://bit.ly/1SWkx58
 
