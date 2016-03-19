@@ -1,4 +1,4 @@
-0.3.2
-Hotfix: crash caused by null oredict entries
-http://bit.ly/1U9NeND
+0.3.3
+Many fixes
+http://bit.ly/1Ucn2lr
 
