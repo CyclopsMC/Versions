@@ -1,4 +1,4 @@
-0.5.3
-Initial 1.9 release
-http://bit.ly/1RuTQPP
+0.5.4
+Changes to remain compatible with the latest Forge
+http://bit.ly/1UmPL6U
 
