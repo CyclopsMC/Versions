@@ -1,4 +1,4 @@
-0.5.3
-Small fix for Integrated Dynamics
-http://bit.ly/1pAOnRw
+0.5.4
+Small fix for EvilCraft
+http://bit.ly/1RWziTD
 

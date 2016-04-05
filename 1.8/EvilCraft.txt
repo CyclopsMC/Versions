@@ -1,4 +1,4 @@
-0.9.4
-Minor fixes
-http://bit.ly/1SVZ78d
+0.9.5
+Various bug fixes
+http://bit.ly/1Xf2xSZ
 
