@@ -1,4 +1,4 @@
-0.5.4
-Changes to remain compatible with the latest Forge
-http://bit.ly/1UmPL6U
+0.5.5
+Changes to remain compatible with the latest Forge, bis
+http://bit.ly/1N75AHl
 
