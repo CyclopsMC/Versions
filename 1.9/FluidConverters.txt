@@ -1,4 +1,4 @@
-2.0.0
-Initial 1.9 release
-http://bit.ly/1R7IKUV
+2.0.1
+Fix startup rare crash
+http://bit.ly/26lqcXU
 
