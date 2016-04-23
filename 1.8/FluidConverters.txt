@@ -1,4 +1,4 @@
-2.0.0
-Rewrite for Minecraft 1.8.9
-http://bit.ly/1KyLDgy
+2.0.1
+Fix crash with certain fluids
+http://bit.ly/1SAWNC0
 

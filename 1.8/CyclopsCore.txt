@@ -1,4 +1,4 @@
-0.5.4
-Small fix for EvilCraft
-http://bit.ly/1RWziTD
+0.5.5
+Fix quad coloring
+http://bit.ly/1r6YOg1
 

@@ -1,4 +1,4 @@
-0.3.3
-Many fixes
-http://bit.ly/1Ucn2lr
+0.3.4
+Fixes to fluid rendering and startup crashing
+http://bit.ly/1Sq7wgo
 
