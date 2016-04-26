@@ -1,4 +1,4 @@
-0.3.5
-Reduce Meneglin biome spawn rate
-http://bit.ly/1MVJ5uo
+0.3.6
+Fix RF API crash
+http://bit.ly/1UeU17U
 
