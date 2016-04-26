@@ -1,4 +1,4 @@
-0.3.4
-Fixes to fluid rendering and startup crashing
-http://bit.ly/1Sq7wgo
+0.3.5
+Reduce Meneglin biome spawn rate
+http://bit.ly/1MVJ5uo
 

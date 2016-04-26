@@ -1,4 +1,4 @@
-0.5.6
-Changes to support EvilCraft and Integrated Dynamics
-http://bit.ly/1pspfvn
+0.5.7
+Fix crash related to bucket filling
+http://bit.ly/1TaZKGX
 
