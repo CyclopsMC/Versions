@@ -1,4 +1,4 @@
-0.9.7
-Fix bucket fill/empty crash
-http://bit.ly/243fmau
+0.9.8
+Various fixes
+http://bit.ly/24iWODh
 
