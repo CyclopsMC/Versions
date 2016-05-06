@@ -1,4 +1,4 @@
-0.5.7
-Fix crash related to bucket filling
-http://bit.ly/1TaZKGX
+0.5.8
+Various fixes
+http://bit.ly/1UFQfof
 

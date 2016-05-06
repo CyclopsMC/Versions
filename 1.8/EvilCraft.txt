@@ -1,4 +1,4 @@
-0.9.6
-Restored TCon and Blood Magic integration
-http://bit.ly/1MOWJ2f
+0.9.7
+Various fixes
+http://bit.ly/1UFOWpq
 

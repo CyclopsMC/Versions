@@ -1,4 +1,4 @@
-0.9.8
+0.9.9
 Various fixes
-http://bit.ly/24iWODh
+http://bit.ly/23vT0ZD
 

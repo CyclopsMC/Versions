@@ -1,4 +1,4 @@
-0.3.7
-Fix Drying Basin sometimes not working anymore
-http://bit.ly/243fBCp
+0.3.8
+Fix copying of variables
+http://bit.ly/1UFQn79
 
