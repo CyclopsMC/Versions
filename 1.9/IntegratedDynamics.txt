@@ -1,4 +1,4 @@
-0.3.8
-Fix copying of variables
-http://bit.ly/1UFQn79
+0.3.9
+Fix Energy Battery crash
+http://bit.ly/1TFkGG1
 
