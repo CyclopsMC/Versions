@@ -1,4 +1,4 @@
-0.9.10
-Various fixes
-http://bit.ly/1TFkKp6
+0.10.0
+Modular brooms, display stand and many fixes
+http://bit.ly/1sssqVN
 

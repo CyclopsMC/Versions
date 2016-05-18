@@ -1,4 +1,4 @@
-0.5.9
-Various fixes
-http://bit.ly/1TFkpCX
+0.6.0
+Various additions to support EvilCraft 0.10.0
+http://bit.ly/1ssrz7q
 
