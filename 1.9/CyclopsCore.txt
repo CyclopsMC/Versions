@@ -1,4 +1,4 @@
-0.6.0
-Various additions to support EvilCraft 0.10.0
-http://bit.ly/1ssrz7q
+0.6.1
+Initial 1.9.4 port
+http://bit.ly/20mzOgp
 

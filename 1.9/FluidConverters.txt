@@ -1,4 +1,4 @@
-2.0.1
-Fix startup rare crash
-http://bit.ly/26lqcXU
+2.0.2
+Initial 1.9.4 port
+http://bit.ly/20mBgiN
 

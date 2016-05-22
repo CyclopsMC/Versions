@@ -1,4 +1,4 @@
-0.3.9
-Fix Energy Battery crash
-http://bit.ly/1TFkGG1
+0.3.10
+Initial 1.9.4 port
+http://bit.ly/1TnTCAZ
 
