@@ -1,4 +1,4 @@
-0.6.1
-Initial 1.9.4 port
-http://bit.ly/20mzOgp
+0.6.2
+Fix startup crash
+http://bit.ly/1Tz3kO8
 
