@@ -1,4 +1,4 @@
-0.6.2
-Fix startup crash
-http://bit.ly/1Tz3kO8
+0.6.3
+Fix fluid blocks being solid
+http://bit.ly/1U8HkGN
 

@@ -1,4 +1,4 @@
-0.10.1
-Initial 1.9.4 port and fixes
-http://bit.ly/20mA0w1
+0.10.2
+Fix Spirit Furnace and Redstone Grenade crash
+http://bit.ly/1Xxkzlp
 
