@@ -1,4 +1,4 @@
-0.1.5
-Initial 1.9.4 port
-http://bit.ly/1TnUcPp
+0.1.6
+Compatibility with latest CyclopsCore
+http://bit.ly/29fkJyF
 

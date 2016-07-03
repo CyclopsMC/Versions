@@ -1,4 +1,4 @@
-0.3.10
-Initial 1.9.4 port
-http://bit.ly/1TnTCAZ
+0.4.0
+Functional logic, better mod integrations and many fixes
+http://bit.ly/29gL8sk
 

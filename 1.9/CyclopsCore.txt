@@ -1,4 +1,4 @@
-0.6.3
-Fix fluid blocks being solid
-http://bit.ly/1U8HkGN
+0.7.0
+Library changes for Integrated Dynamics
+http://bit.ly/29gL1gc
 

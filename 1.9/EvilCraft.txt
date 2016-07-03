@@ -1,4 +1,4 @@
-0.10.2
-Fix Spirit Furnace and Redstone Grenade crash
-http://bit.ly/1Xxkzlp
+0.10.3
+Many fixes and restored mod integrations
+http://bit.ly/29flh7o
 
