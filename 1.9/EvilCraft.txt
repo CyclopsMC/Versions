@@ -1,4 +1,4 @@
-0.10.3
-Many fixes and restored mod integrations
-http://bit.ly/29flh7o
+0.10.4
+Fix Blood Infuser crash
+http://bit.ly/29t5D8v
 
