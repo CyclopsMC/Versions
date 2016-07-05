@@ -1,4 +1,4 @@
-1.3.6
-Various fixes
-http://bit.ly/29gLFKz
+1.3.7
+Fix mipmapping issue
+http://bit.ly/29t8PRd
 
