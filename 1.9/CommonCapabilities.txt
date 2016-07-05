@@ -1,4 +1,4 @@
-1.0.0
-Initial release
-http://bit.ly/29gL0c2
+1.1.0
+Removal of Tesla to EU and RF interactions
+http://bit.ly/29t1kdn
 
