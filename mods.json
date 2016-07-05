@@ -1,0 +1,68 @@
+{
+    "mods": [
+        {
+            "curse-name": "colossal-chests",
+            "curse-id": "237875",
+            "file-name": "ColossalChests",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "common-capabilities",
+            "curse-id": "247007",
+            "file-name": "CommonCapabilities",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "cyclops-core",
+            "curse-id": "232758",
+            "file-name": "CyclopsCore",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "energysynegery",
+            "curse-id": "247043",
+            "file-name": "EnergySynergy",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "evilcraft",
+            "curse-id": "74610",
+            "file-name": "EvilCraft",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "fluidconverters",
+            "curse-id": "223737",
+            "file-name": "FluidConverters",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "integrated-dynamics",
+            "curse-id": "236307",
+            "file-name": "IntegratedDynamics",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "structured-crafting",
+            "curse-id": "233151",
+            "file-name": "StructuredCrafting",
+            "versions": {
+                "1.9": "1.10.2"
+            }
+        }
+    ]
+}
