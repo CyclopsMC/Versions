@@ -1,4 +1,4 @@
-0.7.0
-Library changes for Integrated Dynamics
-http://bit.ly/29gL1gc
+0.7.1
+Fix console spam for capability registration failure
+http://bit.ly/29tcvm2
 
