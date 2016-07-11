@@ -1,4 +1,3 @@
-0.10.4
-Fix Blood Infuser crash
-http://bit.ly/29t5D8v
-
+0.10.5
+Fixes related to fluid handling
+http://bit.ly/29KbbYM

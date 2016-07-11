@@ -1,4 +1,3 @@
-0.4.0
-Functional logic, better mod integrations and many fixes
-http://bit.ly/29gL8sk
-
+0.4.1
+Add zh_CN.lang
+http://bit.ly/29KazCx
