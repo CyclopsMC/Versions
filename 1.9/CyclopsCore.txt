@@ -1,4 +1,3 @@
-0.7.1
-Fix console spam for capability registration failure
-http://bit.ly/29tcvm2
-
+0.7.2
+Fix analytics freeze and recipe overrides
+http://bit.ly/29IIY8G
