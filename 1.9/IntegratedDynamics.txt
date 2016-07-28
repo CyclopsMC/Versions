@@ -1,3 +1,3 @@
-0.4.1
-Add zh_CN.lang
-http://bit.ly/29KazCx
+0.4.2
+Various fixes and TOP integration
+http://bit.ly/2adQxVd
