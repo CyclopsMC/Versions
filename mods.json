@@ -63,6 +63,14 @@
             "versions": {
                 "1.9": "1.10.2"
             }
+        },
+        {
+            "curse-name": "everlastingabilities",
+            "curse-id": "248353",
+            "file-name": "EverlastingAbilities",
+            "versions": {
+                "1.9": "1.10.2"
+            }
         }
     ]
 }
