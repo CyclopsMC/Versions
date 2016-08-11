@@ -1,0 +1,4 @@
+0.10.8
+Many fixes and full 1.10 compatibility
+http://bit.ly/2aOxfpr
+
