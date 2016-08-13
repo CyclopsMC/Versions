@@ -1,3 +1,3 @@
-1.3.8
-Fix unsided itemhandlers
-http://bit.ly/2asvXNG
+1.3.9
+Fix black chests and add inventory tweaks support
+http://bit.ly/2b5RA6s
