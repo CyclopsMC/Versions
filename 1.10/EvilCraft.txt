@@ -1,3 +1,4 @@
-0.10.9
+0.10.10
 Fixes, minor additions and minor changes
-http://bit.ly/2bcLaWv
+http://bit.ly/2bcZ5fd
+
