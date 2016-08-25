@@ -1,3 +1,4 @@
-0.4.2
-Various fixes and TOP integration
-http://bit.ly/2adQxVd
+0.5.0
+Texture overhaul, network diagnostics and fixes
+http://bit.ly/2bjb3Ef
+
