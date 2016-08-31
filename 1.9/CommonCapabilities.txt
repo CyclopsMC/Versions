@@ -1,3 +1,4 @@
-1.1.1
-Update Brewing Stand Worker support
-http://bit.ly/29yxYuy
+1.1.2
+Remove Forestry Tesla capabilities, since it is now natively supported
+http://bit.ly/2bW0WSS
+

@@ -1,3 +1,4 @@
-0.7.6
-Fluid slot and world storage fixes
-http://bit.ly/2bcLDbf
+0.7.7
+Fix tile init crash and add Waila compat for logs
+http://bit.ly/2bW2a0e
+

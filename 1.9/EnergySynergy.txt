@@ -1,4 +1,4 @@
-1.0.0
-Initial release
-http://bit.ly/29IFrm1
+1.0.1
+Update Tesla version
+http://bit.ly/2bC3OHD
 
