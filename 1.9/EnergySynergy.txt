@@ -1,4 +1,4 @@
-1.0.1
-Update Tesla version
-http://bit.ly/2bC3OHD
+1.1.0
+Add Forge Energy support
+http://bit.ly/2cjJviE
 
