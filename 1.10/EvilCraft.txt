@@ -1,3 +1,4 @@
-0.10.11
-Fixes for Dark Tank, bounding boxes and Display Stand
-http://bit.ly/2bC0vAc
+0.10.12
+Many fixes
+http://bit.ly/2dABDtN
+

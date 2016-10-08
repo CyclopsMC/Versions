@@ -1,4 +1,3 @@
-1.1.2
-Remove Forestry Tesla capabilities, since it is now natively supported
-http://bit.ly/2bW0WSS
-
+1.2.0
+Add IInventoryState capability for improving piping efficiency
+http://bit.ly/2dI7iFz

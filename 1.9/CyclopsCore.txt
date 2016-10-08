@@ -1,4 +1,4 @@
-0.7.7
-Fix tile init crash and add Waila compat for logs
-http://bit.ly/2bW2a0e
+0.8.0
+Minor fixes and lib additions
+http://bit.ly/2dABvu5
 

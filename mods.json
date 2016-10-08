@@ -45,7 +45,7 @@
             "curse-id": "223737",
             "file-name": "FluidConverters",
             "versions": {
-                "1.9": "1.10.2"
+                "1.10": "1.10.2"
             }
         },
         {
@@ -53,7 +53,7 @@
             "curse-id": "236307",
             "file-name": "IntegratedDynamics",
             "versions": {
-                "1.9": "1.10.2"
+                "1.10": "1.10.2"
             }
         },
         {
@@ -70,6 +70,14 @@
             "file-name": "EverlastingAbilities",
             "versions": {
                 "1.9": "1.10.2"
+            }
+        },
+        {
+            "curse-name": "integrated-tunnels",
+            "curse-id": "251389",
+            "file-name": "IntegratedTunnels",
+            "versions": {
+                "1.10": "1.10.2"
             }
         }
     ]
