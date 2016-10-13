@@ -1,3 +1,4 @@
-0.6.0
-Fixes, optimizations, Refined Storage support and more
-http://bit.ly/2dI7Hrw
+0.6.1
+Fix rare crash and fix RS lists
+http://bit.ly/2dPYzoM
+
