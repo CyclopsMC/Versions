@@ -1,4 +1,4 @@
-0.10.12
-Many fixes
-http://bit.ly/2dABDtN
+0.10.13
+Fix Envir Acc usage crash when multiple players are online
+http://bit.ly/2eDgP3q
 
