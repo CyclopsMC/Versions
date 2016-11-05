@@ -1,4 +1,3 @@
-0.6.1
-Fix rare crash and fix RS lists
-http://bit.ly/2dPYzoM
-
+0.6.2
+Fix crashes and update RS compat
+http://bit.ly/2f49MjJ

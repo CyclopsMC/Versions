@@ -1,4 +1,3 @@
-0.10.12
-Many fixes
-http://bit.ly/2dABDtN
-
+0.10.14
+Fix crashes and inconveniences
+http://bit.ly/2fbdPIE
