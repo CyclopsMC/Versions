@@ -1,3 +1,3 @@
-1.2.0
-Add IInventoryState capability for improving piping efficiency
-http://bit.ly/2dI7iFz
+1.2.1
+Fix IC2Classic crash
+http://bit.ly/2fDigw6

@@ -1,3 +1,3 @@
-0.6.2
-Fix crashes and update RS compat
-http://bit.ly/2f49MjJ
+0.6.3
+Fix bugs for mentil tree configuration and display panels
+http://bit.ly/2fDipj1

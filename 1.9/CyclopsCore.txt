@@ -1,4 +1,3 @@
-0.8.0
-Minor fixes and lib additions
-http://bit.ly/2dABvu5
-
+0.8.1
+Scrolling gui optimizations
+http://bit.ly/2fvb1so
