@@ -1,3 +1,3 @@
-0.10.15
-Fix JEI crash
-http://bit.ly/2fva3fM
+0.10.16
+Fix display stand render crash
+http://bit.ly/2gMXdb2
