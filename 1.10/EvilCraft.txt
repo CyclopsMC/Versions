@@ -1,3 +1,3 @@
-0.10.16
-Fix display stand render crash
-http://bit.ly/2gMXdb2
+0.10.17
+Produce player-only drops in Spirit Furnace
+http://bit.ly/2h2KCTb
