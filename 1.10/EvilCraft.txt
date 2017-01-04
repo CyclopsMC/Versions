@@ -1,3 +1,4 @@
-0.10.17
-Produce player-only drops in Spirit Furnace
-http://bit.ly/2h2KCTb
+0.10.18
+Fixes and config screen improvements
+http://bit.ly/2japzAF
+

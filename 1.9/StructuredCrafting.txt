@@ -1,4 +1,4 @@
-0.1.6
-Compatibility with latest CyclopsCore
-http://bit.ly/29fkJyF
+0.1.7
+Config screen improvements
+http://bit.ly/2iQhRbt
 
