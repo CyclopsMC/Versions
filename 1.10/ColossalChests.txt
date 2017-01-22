@@ -1,3 +1,4 @@
-1.4.2
-Fixes and optimizations
-http://bit.ly/2h2H43p
+1.5.0
+Inventory indexing for improved efficiency and interface overlay rendering
+http://bit.ly/2jEXtea
+

@@ -1,4 +1,3 @@
-0.9.0
-TileEntity crash fix and config screen changes
-http://bit.ly/2jau4ec
-
+0.9.1
+Multiblock fixes and indexed inventory support
+http://bit.ly/2jchBWe

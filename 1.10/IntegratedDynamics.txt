@@ -1,3 +1,4 @@
-0.6.6
-Fixes and config screen improvements
-http://bit.ly/2jap89i
+0.6.7
+Many fixes, improvements and Menril Stone Torches
+http://bit.ly/2jEMAZW
+
