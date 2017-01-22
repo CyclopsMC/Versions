@@ -1,4 +1,3 @@
-1.2.3
-Initial 1.11 port
-http://bit.ly/2iIgvzh
-
+1.2.4
+Fix compat with mods using loot functions
+http://bit.ly/2jFaaFX

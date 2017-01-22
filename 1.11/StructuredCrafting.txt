@@ -1,4 +1,4 @@
-0.1.6
-Initial 1.11 port
-http://bit.ly/2j14EzA
+0.1.7
+Config gui improvements
+http://bit.ly/2jcwk3w
 

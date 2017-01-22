@@ -1,5 +1,4 @@
-0.6.5
-Initial 1.11 port
-http://bit.ly/2j0XhbB
-
+0.6.7
+Many fixes, improvements and Menril Stone Torches
+http://bit.ly/2jFca0N
 

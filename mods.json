@@ -5,7 +5,8 @@
             "curse-id": "237875",
             "file-name": "ColossalChests",
             "versions": {
-                "1.10": "1.10.2"
+                "1.10": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -13,7 +14,8 @@
             "curse-id": "247007",
             "file-name": "CommonCapabilities",
             "versions": {
-                "1.9": "1.10.2"
+                "1.9": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -21,7 +23,8 @@
             "curse-id": "232758",
             "file-name": "CyclopsCore",
             "versions": {
-                "1.9": "1.10.2"
+                "1.9": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -37,7 +40,8 @@
             "curse-id": "74610",
             "file-name": "EvilCraft",
             "versions": {
-                "1.10": "1.10.2"
+                "1.10": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -45,7 +49,8 @@
             "curse-id": "223737",
             "file-name": "FluidConverters",
             "versions": {
-                "1.10": "1.10.2"
+                "1.10": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -53,7 +58,8 @@
             "curse-id": "236307",
             "file-name": "IntegratedDynamics",
             "versions": {
-                "1.10": "1.10.2"
+                "1.10": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -61,7 +67,8 @@
             "curse-id": "233151",
             "file-name": "StructuredCrafting",
             "versions": {
-                "1.9": "1.10.2"
+                "1.9": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -69,7 +76,8 @@
             "curse-id": "248353",
             "file-name": "EverlastingAbilities",
             "versions": {
-                "1.9": "1.10.2"
+                "1.9": "1.10.2",
+                "1.11": "1.11.2"
             }
         },
         {
@@ -77,7 +85,8 @@
             "curse-id": "251389",
             "file-name": "IntegratedTunnels",
             "versions": {
-                "1.10": "1.10.2"
+                "1.10": "1.10.2",
+                "1.11": "1.11.2"
             }
         }
     ]

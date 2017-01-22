@@ -1,4 +1,3 @@
-0.9.0
-Initial 1.11 port
-http://bit.ly/2iIdAXs
-
+0.9.1
+Fixes and inventory indexing
+http://bit.ly/2jEXiiX

@@ -1,4 +1,3 @@
-0.10.17
-Initial 1.11 port
-http://bit.ly/2iIgQCj
-
+0.10.18
+Crash fixes
+http://bit.ly/2jcswQ1
