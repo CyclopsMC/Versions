@@ -1,3 +1,4 @@
-0.9.1
-Fixes and inventory indexing
-http://bit.ly/2jEXiiX
+0.9.2
+Fix biome localization
+http://bit.ly/2kgE9GR
+

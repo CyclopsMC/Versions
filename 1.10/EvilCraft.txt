@@ -1,4 +1,3 @@
-0.10.18
-Fixes and config screen improvements
-http://bit.ly/2japzAF
-
+0.10.19
+Add more Blood Magic integration and make pufferfish usable as poison
+http://bit.ly/2kgytg5

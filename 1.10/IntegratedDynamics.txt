@@ -1,4 +1,3 @@
-0.6.7
-Many fixes, improvements and Menril Stone Torches
-http://bit.ly/2jEMAZW
-
+0.6.8
+Remove number casting
+http://bit.ly/2kgAPLH
