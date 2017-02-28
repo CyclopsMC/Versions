@@ -1,4 +1,4 @@
-0.6.8
-Restore Forestry integration, recipe fixes and localization improvements
-http://bit.ly/2jKNjYv
+0.6.9
+Many fixes and new operators
+http://bit.ly/2m3GOUT
 

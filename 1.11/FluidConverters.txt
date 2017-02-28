@@ -1,4 +1,4 @@
-2.1.1
-Config gui improvements
-http://bit.ly/2jczFzN
+2.2.0
+JEI support
+http://bit.ly/2m3xRL6
 
