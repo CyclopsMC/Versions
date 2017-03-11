@@ -1,3 +1,4 @@
-0.9.3
-GUI and fluid container fixes
-http://bit.ly/2mB8Hl5
+0.9.4
+Fix world memory leak
+http://bit.ly/2mdiQDF
+
