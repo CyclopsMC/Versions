@@ -1,4 +1,3 @@
-0.9.3
-Fix world memory leak
-http://bit.ly/2mMqCaK
-
+0.10.0
+Fix cube detection crash
+http://bit.ly/2nYid2m

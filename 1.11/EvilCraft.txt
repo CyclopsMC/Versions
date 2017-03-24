@@ -1,4 +1,4 @@
-0.10.21
-Fix tank losing part of contents when upgraded
-http://bit.ly/2mMxUeP
+0.10.22
+Several minor fixes
+http://bit.ly/2nY5b4O
 

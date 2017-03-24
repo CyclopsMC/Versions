@@ -1,4 +1,3 @@
-2.2.0
-JEI support
-http://bit.ly/2mAUW5H
-
+2.2.1
+Fix nullpointer on invalid fluidconverter blockstate
+http://bit.ly/2nPewiH

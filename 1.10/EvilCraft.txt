@@ -1,3 +1,4 @@
-0.10.20
-EnderIO and Immersive Engineering support + fixes
-http://bit.ly/2mB6q9u
+0.10.21
+Several minor fixes
+http://bit.ly/2nP7SIV
+

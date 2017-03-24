@@ -1,3 +1,3 @@
-0.6.10
-Fix chunk-related network crash
-http://bit.ly/2mMFG8u
+0.6.11
+Fix energy transfer happening client-side
+http://bit.ly/2nYmdQr
