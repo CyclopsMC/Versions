@@ -1,4 +1,3 @@
-1.5.0
-Inventory indexing for improved efficiency and interface overlay rendering
-http://bit.ly/2jEXtea
-
+1.5.1
+Texture fixes
+http://bit.ly/2oHf0Dr

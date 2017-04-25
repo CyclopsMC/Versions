@@ -1,3 +1,4 @@
-0.10.0
-Fix cube detection crash
-http://bit.ly/2nYid2m
+0.10.2
+Fix server crash
+http://bit.ly/2pwNDRt
+

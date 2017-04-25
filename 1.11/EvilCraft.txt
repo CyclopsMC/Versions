@@ -1,4 +1,4 @@
-0.10.22
-Several minor fixes
-http://bit.ly/2nY5b4O
+0.10.23
+Minor fixes
+http://bit.ly/2oHilSL
 

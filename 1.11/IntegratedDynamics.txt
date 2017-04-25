@@ -1,3 +1,4 @@
-0.6.11
-Fix energy transfer happening client-side
-http://bit.ly/2nYmmTZ
+0.6.12
+General and energy-related fixes
+http://bit.ly/2oH7Les
+
