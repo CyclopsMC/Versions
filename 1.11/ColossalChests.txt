@@ -1,4 +1,3 @@
-1.5.1
-Texture fixes
-http://bit.ly/2oHiaa3
-
+1.5.2
+Fix Inventory Tweaks crash
+http://bit.ly/2qlDy75
