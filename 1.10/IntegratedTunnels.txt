@@ -1,3 +1,4 @@
-1.1.2
-Forge Energy fixes
-http://bit.ly/2oHeLIi
+1.2.0
+More flexible interfaces and ID book integration
+http://bit.ly/2qFR2uJ
+

@@ -1,4 +1,4 @@
-0.10.24
-Fix IC2 compat crash
-http://bit.ly/2oHmPIY
+0.10.25
+MineTweaker support, capabilities for Display Stand and Exalted Crafter, Stairs!
+http://bit.ly/2pTPFeJ
 
