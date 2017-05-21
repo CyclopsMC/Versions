@@ -1,4 +1,4 @@
-0.7.0
-In-game guide, MineTweaker support, delay block, operators, ...
-http://bit.ly/2pTMX91
+0.7.1
+Fix part aspect settings resetting
+http://bit.ly/2qL8wG0
 
