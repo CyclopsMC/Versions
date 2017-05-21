@@ -1,4 +1,4 @@
-1.2.0
-More flexible interfaces and ID book integration
-http://bit.ly/2pTENh2
+1.2.1
+Fix item transfer not working
+http://bit.ly/2qLITVN
 
