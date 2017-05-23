@@ -1,4 +1,4 @@
-1.2.1
-Fix item transfer not working
-http://bit.ly/2qLITVN
+1.2.2
+Fix fluid exporters sometimes transferring the wrong fluid
+http://bit.ly/2qSMUaP
 

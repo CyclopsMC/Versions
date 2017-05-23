@@ -1,4 +1,4 @@
-1.2.0
-More flexible interfaces and ID book integration
-http://bit.ly/2qFR2uJ
+1.2.1
+Fix fluid exporters sometimes transferring the wrong fluid
+http://bit.ly/2qSFfJC
 
