@@ -1,4 +1,4 @@
-1.6.0
-Add Obsidian Colossal Chest and Up/Downgrade tool
-http://bit.ly/2r2CGou
+1.6.1
+Fix Upgrade Tool recipe
+http://bit.ly/2qiHLfp
 
