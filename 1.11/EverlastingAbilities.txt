@@ -1,3 +1,4 @@
-1.2.4
-Fix compat with mods using loot functions
-http://bit.ly/2jFaaFX
+1.3.0
+Combine totems to create a new random totem
+http://bit.ly/2r2t6Sm
+

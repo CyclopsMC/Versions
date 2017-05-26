@@ -1,4 +1,4 @@
-0.7.1
-Fix part aspect settings resetting
-http://bit.ly/2qL8wG0
+0.7.2
+Minor fixes and improvements
+http://bit.ly/2qioMl2
 

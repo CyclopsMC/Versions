@@ -1,4 +1,3 @@
-0.10.23
-MineTweaker support, capabilities for Display Stand and Exalted Crafter, Stairs!
-http://bit.ly/2qFI94s
-
+0.10.24
+Minor fixes
+http://bit.ly/2qiGLI3

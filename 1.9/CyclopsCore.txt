@@ -1,3 +1,4 @@
-0.10.3
-Fixes
-http://bit.ly/2pTkYXn
+0.10.4
+Add support for NBT-sensitive XML recipes
+http://bit.ly/2qiBD6y
+
