@@ -1,4 +1,4 @@
-1.1.1
-Initial 1.11 port
-http://bit.ly/2pwzZNR
+1.1.2
+Improve IC2 interfaces compat
+http://bit.ly/2rqIHi2
 

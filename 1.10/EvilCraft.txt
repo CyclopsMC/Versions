@@ -1,3 +1,3 @@
-0.10.24
+0.10.25
 Minor fixes
-http://bit.ly/2qiGLI3
+http://bit.ly/2rqIvPQ
