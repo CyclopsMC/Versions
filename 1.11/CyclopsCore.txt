@@ -1,4 +1,3 @@
-0.10.5
-Fluid particle signature fix
-http://bit.ly/2s9vXcU
-
+0.10.6
+Fix Minetweaker crash
+http://bit.ly/2rEL80S

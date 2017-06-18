@@ -1,4 +1,4 @@
-1.2.2
-Fix fluid exporters sometimes transferring the wrong fluid
-http://bit.ly/2qSMUaP
+1.2.3
+Fix error overflow issue
+http://bit.ly/2rEWeTv
 
