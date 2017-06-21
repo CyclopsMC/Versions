@@ -1,4 +1,4 @@
-1.2.3
-Fix error overflow issue
-http://bit.ly/2rEWeTv
+1.2.4
+Fix enchantable item achievement not being obtainable
+http://bit.ly/2sBihYx
 

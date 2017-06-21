@@ -1,4 +1,4 @@
-2.2.2
-Fix configuration of fluids on converter blocks
-http://bit.ly/2rF1czm
+2.2.3
+Don't allow fluids to be inserted in output sides
+http://bit.ly/2rRAUtP
 
