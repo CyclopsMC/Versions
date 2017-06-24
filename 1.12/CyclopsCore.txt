@@ -1,0 +1,4 @@
+0.10.6
+Initial 1.12 release
+http://bit.ly/2sN6ExE
+
