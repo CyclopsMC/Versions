@@ -1,4 +1,4 @@
-0.10.6
-Initial 1.12 release
-http://bit.ly/2sN6ExE
+0.10.7
+Fixes for latest Forge RB
+http://bit.ly/2t5W70O
 
