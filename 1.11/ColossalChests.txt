@@ -1,4 +1,4 @@
-1.6.1
-Fix Upgrade Tool recipe
-http://bit.ly/2qiHLfp
+1.6.2
+Minor fixes
+http://bit.ly/2t5ExtJ
 

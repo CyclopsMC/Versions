@@ -1,4 +1,4 @@
-0.1.7
-Initial 1.12 release
-http://bit.ly/2sMOuMs
+0.1.8
+Fix empty inventories not being ignored during crafting
+http://bit.ly/2smC80J
 

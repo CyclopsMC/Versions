@@ -1,4 +1,4 @@
-1.6.1
-Initial 1.12 release
-http://bit.ly/2s2EtxE
+1.6.2
+Minor fixes
+http://bit.ly/2slzs3v
 
