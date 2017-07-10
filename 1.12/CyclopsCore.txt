@@ -1,4 +1,4 @@
-0.10.7
-Fixes for latest Forge RB
-http://bit.ly/2t5W70O
+0.10.8
+Changes required for Integrated Dynamics
+http://bit.ly/2u69P6a
 
