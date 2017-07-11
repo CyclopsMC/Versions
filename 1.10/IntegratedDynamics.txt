@@ -1,3 +1,4 @@
-0.7.4
+0.7.5
 Minor fixes
-http://bit.ly/2rF4fYx
+http://bit.ly/2u8SMR2
+

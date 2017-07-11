@@ -1,4 +1,4 @@
-0.7.5
-Fix Logic Programmer operator tooltips not showing
-http://bit.ly/2sB92at
+0.7.6
+Minor fixes
+http://bit.ly/2sLG3QE
 

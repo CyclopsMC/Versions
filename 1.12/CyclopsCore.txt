@@ -1,4 +1,4 @@
-0.10.8
-Changes required for Integrated Dynamics
-http://bit.ly/2u69P6a
+0.10.9
+Fix item gui's not opening
+http://bit.ly/2u9cJay
 
