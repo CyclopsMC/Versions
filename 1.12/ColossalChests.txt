@@ -1,4 +1,4 @@
-1.6.3
-Add advancements
-http://bit.ly/2sLDYnX
+1.6.4
+Fix Iron Chest integration
+http://bit.ly/2tTOmeu
 
