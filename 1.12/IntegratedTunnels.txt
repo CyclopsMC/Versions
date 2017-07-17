@@ -1,4 +1,4 @@
-1.2.4
-Initial 1.12 port
-http://bit.ly/2u6adl8
+1.2.5
+Fix external importer/exporter interaction
+http://bit.ly/2uuc8jQ
 
