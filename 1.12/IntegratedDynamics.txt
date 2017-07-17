@@ -1,3 +1,3 @@
-0.7.7
-Minor fixes
-http://bit.ly/2u0OAR6
+0.8.0
+Add wireless connectors
+http://bit.ly/2uvzXHK
