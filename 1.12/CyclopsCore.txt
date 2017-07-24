@@ -1,4 +1,4 @@
-0.10.9
-Fix item gui's not opening
-http://bit.ly/2u9cJay
+0.10.10
+Changes for EvilCraft
+http://bit.ly/2utFkp2
 

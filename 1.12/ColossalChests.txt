@@ -1,4 +1,3 @@
-1.6.4
-Fix Iron Chest integration
-http://bit.ly/2tTOmeu
-
+1.6.5
+Update to remain compatible with CyclopsCore
+http://bit.ly/2uRDXCP
