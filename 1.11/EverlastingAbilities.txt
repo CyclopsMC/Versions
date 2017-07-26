@@ -1,4 +1,3 @@
-1.3.1
-Fix totem recycle recipe size
-http://bit.ly/2s9SyGi
-
+1.3.2
+Minor fixes
+http://bit.ly/2uBQF6B
