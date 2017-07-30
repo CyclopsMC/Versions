@@ -1,4 +1,3 @@
-0.10.29
-Minor fixes
-http://bit.ly/2sLuyIV
-
+0.10.30
+Fix Minetweaker+JEI support
+http://bit.ly/2uNPlNM

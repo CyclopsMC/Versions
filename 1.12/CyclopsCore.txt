@@ -1,4 +1,3 @@
-0.10.10
-Changes for EvilCraft
-http://bit.ly/2utFkp2
-
+0.10.11
+Improve Minetweaker support
+http://bit.ly/2uO4yPf

@@ -1,3 +1,3 @@
-0.8.1
-Fix PartStateException
-http://bit.ly/2u5dCPa
+0.8.2
+Add operators and minor fixes
+http://bit.ly/2vbu4js

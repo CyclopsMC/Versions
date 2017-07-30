@@ -1,3 +1,3 @@
-0.8.2
-Update to remain compatible with CyclopsCore
-http://bit.ly/2utBeNy
+0.8.3
+Add operators and minor fixes
+http://bit.ly/2vbf3y3

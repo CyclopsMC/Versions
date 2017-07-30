@@ -1,3 +1,3 @@
-2.2.5
-Fix converter getting stuck
-http://bit.ly/2u9fybl
+2.2.6
+Fix JEI-related crash
+http://bit.ly/2vbeZOP
