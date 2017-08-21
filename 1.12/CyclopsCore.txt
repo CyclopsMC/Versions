@@ -1,3 +1,3 @@
-0.10.12
-Fix localization of spawn eggs
-http://bit.ly/2uehTmB
+0.10.13
+Fix block destroy callbacks
+http://bit.ly/2vXIP7K

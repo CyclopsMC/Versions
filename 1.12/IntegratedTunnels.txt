@@ -1,4 +1,3 @@
-1.2.5
-Fix external importer/exporter interaction
-http://bit.ly/2uuc8jQ
-
+1.3.0
+Add world and player interaction parts
+http://bit.ly/2vXyVTE
