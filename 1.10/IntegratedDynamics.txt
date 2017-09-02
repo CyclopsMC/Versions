@@ -1,3 +1,4 @@
-0.7.10
-Minor fixes
-http://bit.ly/2vshtJW
+0.7.11
+Various stability-related fixes
+http://bit.ly/2eteKoS
+

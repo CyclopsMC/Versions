@@ -1,3 +1,4 @@
-1.2.4
-Fix external importer/exporter interaction
-http://bit.ly/2u0ZRkv
+1.2.5
+Fix random network crashes
+http://bit.ly/2iRmWV3
+
