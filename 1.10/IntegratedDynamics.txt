@@ -1,4 +1,3 @@
-0.7.11
-Various stability-related fixes
-http://bit.ly/2eteKoS
-
+0.7.12
+Fix unnecessary chunk rerenders
+http://bit.ly/2wQCbAP
