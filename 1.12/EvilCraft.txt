@@ -1,3 +1,3 @@
-0.10.34
-Fix exalted crafter keybind localization
-http://bit.ly/2eqwzos
+0.10.35
+CraftTweaker support and fixes
+http://bit.ly/2xt2lfj

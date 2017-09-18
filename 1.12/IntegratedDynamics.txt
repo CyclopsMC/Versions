@@ -1,4 +1,3 @@
-0.9.0
-Add NBT value type and operators, and minor fixes
-http://bit.ly/2vUF32g
-
+0.9.1
+Various fixes and CraftTweaker support
+http://bit.ly/2xsYejb
