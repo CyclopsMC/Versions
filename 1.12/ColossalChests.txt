@@ -1,3 +1,4 @@
-1.6.5
-Update to remain compatible with CyclopsCore
-http://bit.ly/2uRDXCP
+1.6.6
+Fix incompatibility with latest CyclopsCore version
+http://bit.ly/2xvUM7A
+
