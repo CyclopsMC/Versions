@@ -108,6 +108,14 @@
                 "1.11": "1.11.2",
                 "1.12": "1.12.2"
             }
+        },
+        {
+            "curse-name": "energeticsheep",
+            "curse-id": "280602",
+            "file-name": "EnergeticSheep",
+            "versions": {
+                "1.12": "1.12.2"
+            }
         }
     ]
 }
