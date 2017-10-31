@@ -1,0 +1,4 @@
+1.0.2
+Fix HWYLA/WAWLA crash
+http://bit.ly/2ly0hOO
+
