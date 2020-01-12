@@ -1,3 +1,4 @@
 068d4de0-3a75-4c6a-9f01-8c37e16a394c,kroeserr,kroeser
 e2453db9-9328-43c6-bc88-e9db4f3a9059,Flanks255,Flanks
 c56ff47f-991c-4503-abb1-67c3757c920f,__tinyrobotman__,tinyrobotman
+8c122caf-3968-484c-9366-d79912387f8a,_solarscar,SolarScar
