@@ -1,13 +1,9 @@
 name: Update Forge Files every day
 on:
-  # TODO: RM on push
-  push:
-    branches:
-      - master
   schedule:
     - cron:  '15 1 * * *'
 jobs:
-  lint:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
