@@ -1,0 +1,27 @@
+name: Update Forge Files every day
+on:
+  # TODO: RM on push
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '15 1 * * *'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/cache@v2
+        with:
+          path: '~/.npm'
+          key: ${{ runner.os }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
+      - run: npm install -g forge-update-generator
+      - run: cd forge_update && ./_update.sh
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: 'forge_update'
+          message: 'Update Forge update files'
+          push: true
