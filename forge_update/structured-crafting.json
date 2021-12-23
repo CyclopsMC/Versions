@@ -1,14 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/structured-crafting",
   "promos": {
+    "1.18.1-recommended": "0.2.2",
     "1.16.4-recommended": "0.2.2",
     "1.15.2-recommended": "0.2.2",
     "1.14.4-recommended": "0.2.2",
     "1.12.2-recommended": "0.2.1",
+    "1.18.1-latest": "0.2.2",
     "1.16.4-latest": "0.2.2",
     "1.15.2-latest": "0.2.2",
     "1.14.4-latest": "0.2.2",
     "1.12.2-latest": "0.2.1"
+  },
+  "1.18.1": {
+    "0.2.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/3576794"
   },
   "1.16.4": {
     "0.2.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/3151319"
