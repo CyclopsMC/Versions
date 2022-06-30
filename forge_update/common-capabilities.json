@@ -1,27 +1,25 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities",
   "promos": {
-    "Forge-recommended": "2.8.2",
+    "1.19-recommended": "2.8.2",
     "1.18.2-recommended": "2.8.2",
     "1.18.1-recommended": "2.8.2",
     "1.16.5-recommended": "2.8.0",
+    "1.16.4-recommended": "2.5.4",
     "1.15.2-recommended": "2.5.4",
+    "1.12.2-recommended": "2.4.8",
     "1.14.4-recommended": "2.4.4",
-    "Forge-latest": "2.8.2",
+    "1.19-latest": "2.8.2",
     "1.18.2-latest": "2.8.2",
     "1.18.1-latest": "2.8.2",
     "1.16.5-latest": "2.8.0",
+    "1.16.4-latest": "2.5.4",
     "1.15.2-latest": "2.5.4",
+    "1.12.2-latest": "2.4.8",
     "1.14.4-latest": "2.4.4"
   },
-  "Forge": {
-    "2.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3830829",
-    "2.5.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3151332",
-    "2.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3053017",
-    "2.4.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3010635",
-    "2.4.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2920804",
-    "2.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2831253",
-    "2.4.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2739226"
+  "1.19": {
+    "2.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3830829"
   },
   "1.18.2": {
     "2.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3768491"
@@ -40,6 +38,9 @@
     "2.5.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3206369",
     "2.5.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3153169"
   },
+  "1.16.4": {
+    "2.5.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3151332"
+  },
   "1.15.2": {
     "2.5.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3053841",
     "2.5.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3031350",
@@ -48,6 +49,13 @@
     "2.5.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2987788",
     "2.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2987668",
     "2.4.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2928105"
+  },
+  "1.12.2": {
+    "2.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3053017",
+    "2.4.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/3010635",
+    "2.4.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2920804",
+    "2.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2831253",
+    "2.4.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2739226"
   },
   "1.14.4": {
     "2.4.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2808617"
