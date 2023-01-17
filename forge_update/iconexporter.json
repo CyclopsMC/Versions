@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/iconexporter",
   "promos": {
+    "1.19.3-recommended": "1.2.4",
     "1.19.2-recommended": "1.2.4",
     "1.19-recommended": "1.2.4",
     "1.18.2-recommended": "1.2.4",
@@ -10,6 +11,7 @@
     "1.15.2-recommended": "1.2.1",
     "1.14.4-recommended": "1.2.1",
     "1.12.2-recommended": "1.2.0",
+    "1.19.3-latest": "1.2.4",
     "1.19.2-latest": "1.2.4",
     "1.19-latest": "1.2.4",
     "1.18.2-latest": "1.2.4",
@@ -19,6 +21,9 @@
     "1.15.2-latest": "1.2.1",
     "1.14.4-latest": "1.2.1",
     "1.12.2-latest": "1.2.0"
+  },
+  "1.19.3": {
+    "1.2.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/iconexporter/files/4344644"
   },
   "1.19.2": {
     "1.2.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/iconexporter/files/3929884"
