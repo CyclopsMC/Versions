@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/everlastingabilities",
   "promos": {
-    "1.19.2-recommended": "2.0.0",
+    "1.19.2-recommended": "2.0.1",
     "1.19.3-recommended": "1.8.2",
     "1.18.2-recommended": "1.8.1",
     "1.19-recommended": "1.8.2",
@@ -11,7 +11,7 @@
     "1.15.2-recommended": "1.6.3",
     "1.12.2-recommended": "1.5.3",
     "1.14.4-recommended": "1.6.0",
-    "1.19.2-latest": "2.0.0",
+    "1.19.2-latest": "2.0.1",
     "1.19.3-latest": "1.8.2",
     "1.18.2-latest": "1.8.1",
     "1.19-latest": "1.8.2",
@@ -23,6 +23,7 @@
     "1.14.4-latest": "1.6.0"
   },
   "1.19.2": {
+    "2.0.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4488747",
     "2.0.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4486063",
     "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3929850"
   },
