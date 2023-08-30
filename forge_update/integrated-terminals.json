@@ -1,9 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
   "promos": {
-    "1.20.1-recommended": "1.4.10",
-    "1.19.2-recommended": "1.4.9",
-    "1.18.2-recommended": "1.4.8",
+    "1.20.1-recommended": "1.4.11",
+    "1.19.2-recommended": "1.4.10",
+    "1.18.2-recommended": "1.4.9",
     "1.19.4-recommended": "1.4.8",
     "1.19.3-recommended": "1.4.6",
     "1.19-recommended": "1.3.1",
@@ -12,9 +12,9 @@
     "1.16.4-recommended": "1.1.0",
     "1.15.2-recommended": "1.0.16",
     "1.12.2-recommended": "1.0.14",
-    "1.20.1-latest": "1.4.10",
-    "1.19.2-latest": "1.4.9",
-    "1.18.2-latest": "1.4.8",
+    "1.20.1-latest": "1.4.11",
+    "1.19.2-latest": "1.4.10",
+    "1.18.2-latest": "1.4.9",
     "1.19.4-latest": "1.4.8",
     "1.19.3-latest": "1.4.6",
     "1.19-latest": "1.3.1",
@@ -25,11 +25,13 @@
     "1.12.2-latest": "1.0.14"
   },
   "1.20.1": {
+    "1.4.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4728167",
     "1.4.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4674362",
     "1.4.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4645067",
     "1.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4620507"
   },
   "1.19.2": {
+    "1.4.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4728159",
     "1.4.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4674355",
     "1.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4645062",
     "1.4.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4524857",
@@ -45,6 +47,7 @@
     "1.3.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/3929892"
   },
   "1.18.2": {
+    "1.4.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4728150",
     "1.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4674344",
     "1.4.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4524863",
     "1.4.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4502068",
