@@ -1,10 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-rest",
   "promos": {
-    "1.20.1-recommended": "1.1.10",
+    "1.19.2-recommended": "1.1.10",
+    "1.20.1-recommended": "1.1.11",
     "1.19.4-recommended": "1.1.10",
     "1.18.2-recommended": "1.1.6",
-    "1.19.2-recommended": "1.1.9",
     "1.19.3-recommended": "1.1.8",
     "1.19-recommended": "1.1.6",
     "1.18.1-recommended": "1.1.5",
@@ -12,10 +12,10 @@
     "1.16.4-recommended": "1.1.1",
     "1.15.2-recommended": "1.1.1",
     "1.12.2-recommended": "1.1.1",
-    "1.20.1-latest": "1.1.10",
+    "1.19.2-latest": "1.1.10",
+    "1.20.1-latest": "1.1.11",
     "1.19.4-latest": "1.1.10",
     "1.18.2-latest": "1.1.6",
-    "1.19.2-latest": "1.1.9",
     "1.19.3-latest": "1.1.8",
     "1.19-latest": "1.1.6",
     "1.18.1-latest": "1.1.5",
@@ -24,7 +24,15 @@
     "1.15.2-latest": "1.1.1",
     "1.12.2-latest": "1.1.1"
   },
+  "1.19.2": {
+    "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/5242646",
+    "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4502094",
+    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4119518",
+    "1.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/3993599",
+    "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/3929876"
+  },
   "1.20.1": {
+    "1.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/5242642",
     "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4620503"
   },
   "1.19.4": {
@@ -35,12 +43,6 @@
   "1.18.2": {
     "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4502099",
     "1.1.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/3768499"
-  },
-  "1.19.2": {
-    "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4502094",
-    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4119518",
-    "1.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/3993599",
-    "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/3929876"
   },
   "1.19.3": {
     "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-rest/files/4344649"
