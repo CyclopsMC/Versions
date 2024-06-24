@@ -1,9 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/colossal-chests",
   "promos": {
-    "1.20.1-recommended": "1.8.4",
+    "1.20.1-recommended": "1.8.5",
+    "1.19.2-recommended": "1.9.1",
     "1.19.4-recommended": "1.8.4",
-    "1.19.2-recommended": "1.9.0",
     "1.18.2-recommended": "1.9.0",
     "1.19.3-recommended": "1.8.4",
     "1.19-recommended": "1.8.4",
@@ -13,9 +13,9 @@
     "1.15.2-recommended": "1.7.12",
     "1.14.4-recommended": "1.7.6",
     "1.12.2-recommended": "1.7.3",
-    "1.20.1-latest": "1.8.4",
+    "1.20.1-latest": "1.8.5",
+    "1.19.2-latest": "1.9.1",
     "1.19.4-latest": "1.8.4",
-    "1.19.2-latest": "1.9.0",
     "1.18.2-latest": "1.9.0",
     "1.19.3-latest": "1.8.4",
     "1.19-latest": "1.8.4",
@@ -27,14 +27,16 @@
     "1.12.2-latest": "1.7.3"
   },
   "1.20.1": {
+    "1.8.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5462466",
     "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4620461"
+  },
+  "1.19.2": {
+    "1.9.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5462461",
+    "1.9.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4502150",
+    "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/3929872"
   },
   "1.19.4": {
     "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4517669"
-  },
-  "1.19.2": {
-    "1.9.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4502150",
-    "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/3929872"
   },
   "1.18.2": {
     "1.9.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4502141",
