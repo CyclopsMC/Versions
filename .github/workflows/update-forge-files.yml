@@ -16,8 +16,10 @@ jobs:
           node-version: 14.x
       - run: npm install -g forge-update-generator
       - run: cd forge_update && ./_update.sh
+      - run: cd neoforge_update && ./_update.sh
+      - run: cd fabric_update && ./_update.sh
       - uses: EndBug/add-and-commit@v7
         with:
-          add: 'forge_update'
-          message: 'Update Forge update files'
+          add: 'forge_update neoforge_update fabric_update'
+          message: 'Update Forge, NeoForge, and Fabric update files'
           push: true
