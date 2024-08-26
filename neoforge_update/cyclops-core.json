@@ -1,10 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
   "promos": {
-    "1.21.1-recommended": "1.20.4",
+    "1.21.1-recommended": "1.20.5",
     "1.21-recommended": "1.19.10",
     "1.20.4-recommended": "1.19.3",
-    "1.21.1-latest": "1.20.4",
+    "1.21.1-latest": "580",
     "1.21-latest": "1.19.10",
     "1.20.4-latest": "1.19.3"
   },
@@ -21,6 +21,8 @@
     "574": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5653257",
     "576": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5655404",
     "578": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5658013",
+    "580": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5662895",
+    "1.20.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5662890",
     "1.20.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5658016",
     "1.20.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5655399",
     "1.20.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/5653262",
