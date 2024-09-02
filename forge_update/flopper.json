@@ -13,7 +13,7 @@
     "1.15.2-recommended": "1.0.6",
     "1.14.4-recommended": "1.0.6",
     "1.12.2-recommended": "1.0.3",
-    "1.21.1-latest": "139",
+    "1.21.1-latest": "1.1.6",
     "1.20.1-latest": "1.1.5",
     "1.19.2-latest": "1.1.5",
     "1.19.4-latest": "1.1.4",
@@ -27,14 +27,6 @@
     "1.12.2-latest": "1.0.3"
   },
   "1.21.1": {
-    "128": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5639613",
-    "129": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5639627",
-    "130": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5639918",
-    "131": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5639940",
-    "132": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5640071",
-    "134": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5640139",
-    "137": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5640171",
-    "139": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5640216",
     "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5640167"
   },
   "1.20.1": {
