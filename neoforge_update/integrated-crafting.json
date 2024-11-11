@@ -1,14 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
   "promos": {
-    "1.21.1-recommended": "1.1.11",
+    "1.21.1-recommended": "1.1.12",
     "1.21-recommended": "1.1.8",
     "1.20.4-recommended": "1.1.7",
-    "1.21.1-latest": "1.1.11",
+    "1.21.1-latest": "1.1.12",
     "1.21-latest": "1.1.8",
     "1.20.4-latest": "1.1.7"
   },
   "1.21.1": {
+    "1.1.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5890772",
     "1.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5847740",
     "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5650226",
     "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5612235"
