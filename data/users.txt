@@ -16,3 +16,4 @@ d000b809-182c-4158-aa0a-f8ee8d0ea616,Zonk1987,Gêlatinê
 8c1b1b7a-fa01-490e-b607-f4c30eb6ac9b,glidingspider,EmergencyTemporalShift
 caabdb4f-9772-476a-8545-c1118c71ffb1,AnkhLord,lordankh
 00c9d33e-c601-41d1-8d89-f00ba62bc514,Haiyoru,Anton
+8c122caf-3968-484c-9366-d79912387f8a,_Draught,Draught
