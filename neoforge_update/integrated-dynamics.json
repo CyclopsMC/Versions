@@ -1,14 +1,16 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
   "promos": {
-    "1.21.1-recommended": "1.23.17",
+    "1.21.1-recommended": "1.23.19",
     "1.20.4-recommended": "1.21.8",
     "1.21-recommended": "1.23.1",
-    "1.21.1-latest": "1.23.17",
+    "1.21.1-latest": "1.23.19",
     "1.20.4-latest": "1.21.8",
     "1.21-latest": "1.23.1"
   },
   "1.21.1": {
+    "1.23.19": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5927619",
+    "1.23.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5927387",
     "1.23.17": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5919575",
     "1.23.16": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5890871",
     "1.23.15": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5868395",
