@@ -1,10 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/colossal-chests",
   "promos": {
-    "1.21.1-recommended": "1.8.9",
-    "1.21.1-latest": "1.8.9"
+    "1.21.1-recommended": "1.8.10",
+    "1.21.1-latest": "1.8.10"
   },
   "1.21.1": {
+    "1.8.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5936389",
     "1.8.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5919018",
     "1.8.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5817126",
     "1.8.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5797508"
