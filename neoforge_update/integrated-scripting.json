@@ -1,14 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-scripting",
   "promos": {
-    "1.21.1-recommended": "1.0.16",
+    "1.21.1-recommended": "1.0.17",
     "1.21-recommended": "1.0.5",
     "1.20.4-recommended": "1.0.3",
-    "1.21.1-latest": "1.0.16",
+    "1.21.1-latest": "1.0.17",
     "1.21-latest": "1.0.5",
     "1.20.4-latest": "1.0.3"
   },
   "1.21.1": {
+    "1.0.17": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/6217498",
     "1.0.16": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/6195343",
     "1.0.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/6096370",
     "1.0.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/6030274",
