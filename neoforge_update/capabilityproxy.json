@@ -1,4 +1,23 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/capabilityproxy",
-  "promos": {}
+  "promos": {
+    "1.21.1-recommended": "2.2.0",
+    "1.21-recommended": "2.1.13",
+    "1.20.4-recommended": "2.1.11",
+    "1.21.1-latest": "2.2.0",
+    "1.21-latest": "2.1.13",
+    "1.20.4-latest": "2.1.11"
+  },
+  "1.21.1": {
+    "2.2.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5728779",
+    "2.1.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5683356"
+  },
+  "1.21": {
+    "2.1.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5556499",
+    "2.1.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5555247",
+    "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5536688"
+  },
+  "1.20.4": {
+    "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5457955"
+  }
 }

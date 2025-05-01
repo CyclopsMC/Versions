@@ -1,11 +1,4 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/colossal-chests",
-  "promos": {
-    "1.21.1-recommended": "1.8.12",
-    "1.21.1-latest": "1.8.12"
-  },
-  "1.21.1": {
-    "1.8.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6224824",
-    "1.8.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6102440"
-  }
+  "promos": {}
 }
