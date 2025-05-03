@@ -3,18 +3,50 @@
   "promos": {
     "1.20.1-recommended": "1.2.52",
     "1.19.2-recommended": "1.2.43",
+    "1.18.2-recommended": "1.2.23",
     "1.20.1-latest": "1.2.52",
-    "1.19.2-latest": "1.2.43"
+    "1.19.2-latest": "1.2.43",
+    "1.18.2-latest": "1.2.23"
   },
   "1.20.1": {
     "1.2.52": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6287068",
     "1.2.51": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6154548",
     "1.2.50": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6102305",
-    "1.2.49": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5987310"
+    "1.2.49": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5987310",
+    "1.2.48": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5776778",
+    "1.2.47": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5707140",
+    "1.2.46": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5694993",
+    "1.2.45": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5683782",
+    "1.2.44": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5591769",
+    "1.2.43": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5561214",
+    "1.2.42": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5554002",
+    "1.2.41": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5537777",
+    "1.2.40": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5467013",
+    "1.2.39": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5314647",
+    "1.2.38": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5243055",
+    "1.2.37": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5082975",
+    "1.2.36": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4987047",
+    "1.2.35": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4936943",
+    "1.2.34": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4905748",
+    "1.2.33": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4823006"
   },
   "1.19.2": {
     "1.2.43": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6287061",
     "1.2.42": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6154558",
-    "1.2.41": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5987303"
+    "1.2.41": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5987303",
+    "1.2.40": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5707135",
+    "1.2.39": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5694979",
+    "1.2.38": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5683758",
+    "1.2.37": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5561139",
+    "1.2.36": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5561129",
+    "1.2.35": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5553992",
+    "1.2.34": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5537771",
+    "1.2.33": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5467006",
+    "1.2.32": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5314641",
+    "1.2.31": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/5243028",
+    "1.2.30": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4905743"
+  },
+  "1.18.2": {
+    "1.2.23": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/4905738"
   }
 }
