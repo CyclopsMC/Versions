@@ -1,10 +1,4 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
-  "promos": {
-    "1.21.1-recommended": "1.25.12",
-    "1.21.1-latest": "1.25.12"
-  },
-  "1.21.1": {
-    "1.25.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/6444022"
-  }
+  "promos": {}
 }
