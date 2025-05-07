@@ -1,4 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/capabilityproxy",
-  "promos": {}
+  "promos": {
+    "1.21.1-recommended": "2.2.0",
+    "1.21.1-latest": "2.2.0"
+  },
+  "1.21.1": {
+    "2.2.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5728780",
+    "2.1.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5683357"
+  }
 }
