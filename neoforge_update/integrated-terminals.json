@@ -1,10 +1,4 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
-  "promos": {
-    "1.21.1-recommended": "1.6.10",
-    "1.21.1-latest": "1.6.10"
-  },
-  "1.21.1": {
-    "1.6.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/6291204"
-  }
+  "promos": {}
 }
