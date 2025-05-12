@@ -1,4 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/fluidconverters",
-  "promos": {}
+  "promos": {
+    "1.12.2-recommended": "2.2.11",
+    "1.12.2-latest": "2.2.11"
+  },
+  "1.12.2": {
+    "2.2.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/fluidconverters/files/2693685"
+  }
 }
