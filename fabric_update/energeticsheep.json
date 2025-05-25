@@ -1,11 +1,4 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/energeticsheep",
-  "promos": {
-    "1.21.1-recommended": "1.1.18",
-    "1.21.1-latest": "1.1.18"
-  },
-  "1.21.1": {
-    "1.1.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/5921817",
-    "1.1.17": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/5728730"
-  }
+  "promos": {}
 }
