@@ -2,14 +2,34 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
   "promos": {
     "1.21.1-recommended": "1.8.40",
-    "1.21.1-latest": "1.8.40"
+    "1.21-recommended": "1.8.27",
+    "1.20.4-recommended": "1.8.26",
+    "1.21.1-latest": "1.8.40",
+    "1.21-latest": "1.8.27",
+    "1.20.4-latest": "1.8.26"
   },
   "1.21.1": {
     "1.8.40": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6602824",
+    "1.8.39": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6602725",
     "1.8.38": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6563487",
     "1.8.37": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6363124",
+    "1.8.36": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6287259",
+    "1.8.35": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6221737",
     "1.8.34": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6195321",
+    "1.8.33": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6153934",
     "1.8.32": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6066025",
-    "1.8.30": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5927360"
+    "1.8.31": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/6056221",
+    "1.8.30": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5927360",
+    "1.8.29": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5919614",
+    "1.8.28": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5612234"
+  },
+  "1.21": {
+    "1.8.27": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5602042",
+    "1.8.26": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5550915",
+    "1.8.25": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5536705"
+  },
+  "1.20.4": {
+    "1.8.26": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5550910",
+    "1.8.25": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/5457965"
   }
 }
