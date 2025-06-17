@@ -6,12 +6,8 @@
     "1.21.1-recommended": "2.5.3",
     "1.18.2-recommended": "1.8.2",
     "1.19.4-recommended": "2.0.6",
-    "1.19.3-recommended": "1.8.2",
     "1.19-recommended": "1.8.2",
     "1.16.5-recommended": "1.8.0",
-    "1.18.1-recommended": "1.7.3",
-    "1.16.4-recommended": "1.6.3",
-    "1.15.2-recommended": "1.6.3",
     "1.12.2-recommended": "1.5.3",
     "1.14.4-recommended": "1.6.0",
     "1.20.1-latest": "2.3.1",
@@ -19,12 +15,8 @@
     "1.21.1-latest": "2.5.3",
     "1.18.2-latest": "1.8.2",
     "1.19.4-latest": "2.0.6",
-    "1.19.3-latest": "1.8.2",
     "1.19-latest": "1.8.2",
     "1.16.5-latest": "1.8.0",
-    "1.18.1-latest": "1.7.3",
-    "1.16.4-latest": "1.6.3",
-    "1.15.2-latest": "1.6.3",
     "1.12.2-latest": "1.5.3",
     "1.14.4-latest": "1.6.0"
   },
@@ -59,8 +51,6 @@
     "2.0.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4526321",
     "2.0.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4495245",
     "2.0.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4493024",
-    "2.0.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4488747",
-    "2.0.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4486063",
     "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3929850"
   },
   "1.21.1": {
@@ -73,10 +63,7 @@
   },
   "1.18.2": {
     "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4672484",
-    "1.8.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3884910",
-    "1.8.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3850428",
-    "1.7.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3824472",
-    "1.7.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3768481"
+    "1.8.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3884910"
   },
   "1.19.4": {
     "2.0.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4536464",
@@ -84,44 +71,19 @@
     "2.0.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4526325",
     "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4517650"
   },
-  "1.19.3": {
-    "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/4344616"
-  },
   "1.19": {
-    "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3884906",
-    "1.8.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3884821",
-    "1.8.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3850436",
-    "1.7.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3830833"
+    "1.8.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3884906"
   },
   "1.16.5": {
     "1.8.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3850422",
     "1.7.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3420213",
-    "1.7.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3231818",
     "1.7.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3184816"
-  },
-  "1.18.1": {
-    "1.7.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3593765",
-    "1.7.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3576808"
-  },
-  "1.16.4": {
-    "1.6.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3151340"
-  },
-  "1.15.2": {
-    "1.6.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2988580",
-    "1.6.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2987703",
-    "1.6.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2928099"
   },
   "1.12.2": {
     "1.5.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2988576",
-    "1.5.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2831248",
-    "1.5.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2729138"
+    "1.5.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2831248"
   },
   "1.14.4": {
-    "1.6.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2830083",
-    "1.5.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2795907",
-    "1.5.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2791327",
-    "1.5.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2789583",
-    "1.5.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2786584",
-    "1.5.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2783139"
+    "1.6.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/2830083"
   }
 }
