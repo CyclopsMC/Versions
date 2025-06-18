@@ -3,61 +3,23 @@
   "promos": {
     "1.21.1-recommended": "2.2.0",
     "1.20.1-recommended": "2.1.11",
-    "1.19.4-recommended": "2.1.11",
-    "1.19.3-recommended": "2.1.11",
     "1.19.2-recommended": "2.1.11",
-    "1.19-recommended": "2.1.11",
     "1.18.2-recommended": "2.1.10",
-    "1.18.1-recommended": "2.1.10",
-    "1.15.2-recommended": "2.1.7",
-    "1.14.4-recommended": "2.1.5",
-    "1.12.2-recommended": "2.1.3",
     "1.21.1-latest": "2.2.0",
     "1.20.1-latest": "2.1.11",
-    "1.19.4-latest": "2.1.11",
-    "1.19.3-latest": "2.1.11",
     "1.19.2-latest": "2.1.11",
-    "1.19-latest": "2.1.11",
-    "1.18.2-latest": "2.1.10",
-    "1.18.1-latest": "2.1.10",
-    "1.15.2-latest": "2.1.7",
-    "1.14.4-latest": "2.1.5",
-    "1.12.2-latest": "2.1.3"
+    "1.18.2-latest": "2.1.10"
   },
   "1.21.1": {
-    "2.2.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5728778",
-    "2.1.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5683355"
+    "2.2.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/5728778"
   },
   "1.20.1": {
     "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/4620457"
   },
-  "1.19.4": {
-    "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/4517655"
-  },
-  "1.19.3": {
-    "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/4344653"
-  },
   "1.19.2": {
     "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3929855"
   },
-  "1.19": {
-    "2.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3884830",
-    "2.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3830844"
-  },
   "1.18.2": {
     "2.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3768486"
-  },
-  "1.18.1": {
-    "2.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3630271",
-    "2.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3576799"
-  },
-  "1.15.2": {
-    "2.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/3148846"
-  },
-  "1.14.4": {
-    "2.1.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/2830088"
-  },
-  "1.12.2": {
-    "2.1.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/capabilityproxy/files/2689266"
   }
 }
