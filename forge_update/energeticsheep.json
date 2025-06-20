@@ -1,4 +1,80 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/energeticsheep",
-  "promos": {}
+  "promos": {
+    "1.21.1-recommended": "1.1.18",
+    "1.19.2-recommended": "1.1.14",
+    "1.20.1-recommended": "1.1.14",
+    "1.18.2-recommended": "1.1.9",
+    "1.19.4-recommended": "1.1.10",
+    "1.19.3-recommended": "1.1.10",
+    "1.19-recommended": "1.1.9",
+    "1.18.1-recommended": "1.1.8",
+    "1.16.5-recommended": "1.1.7",
+    "1.15.2-recommended": "1.1.7",
+    "1.14.4-recommended": "1.1.6",
+    "1.12.2-recommended": "1.1.5",
+    "1.21.1-latest": "1.1.18",
+    "1.19.2-latest": "1.1.14",
+    "1.20.1-latest": "1.1.14",
+    "1.18.2-latest": "1.1.9",
+    "1.19.4-latest": "1.1.10",
+    "1.19.3-latest": "1.1.10",
+    "1.19-latest": "1.1.9",
+    "1.18.1-latest": "1.1.8",
+    "1.16.5-latest": "1.1.7",
+    "1.15.2-latest": "1.1.7",
+    "1.14.4-latest": "1.1.6",
+    "1.12.2-latest": "1.1.5"
+  },
+  "1.21.1": {
+    "1.1.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/5921815",
+    "1.1.17": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/5728727"
+  },
+  "1.19.2": {
+    "1.1.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4810358",
+    "1.1.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4742687",
+    "1.1.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4718901",
+    "1.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4624765",
+    "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3935842",
+    "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3929856"
+  },
+  "1.20.1": {
+    "1.1.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4742692",
+    "1.1.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4718891",
+    "1.1.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4704568",
+    "1.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4624771",
+    "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4620486"
+  },
+  "1.18.2": {
+    "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4742676",
+    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3768470"
+  },
+  "1.19.4": {
+    "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4517663"
+  },
+  "1.19.3": {
+    "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/4344640"
+  },
+  "1.19": {
+    "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3884826",
+    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3830821"
+  },
+  "1.18.1": {
+    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3576841",
+    "1.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3576816"
+  },
+  "1.16.5": {
+    "1.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3151344"
+  },
+  "1.15.2": {
+    "1.1.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/3143034",
+    "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/2928092"
+  },
+  "1.14.4": {
+    "1.1.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/2812360",
+    "1.1.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/2795903"
+  },
+  "1.12.2": {
+    "1.1.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/2729172"
+  }
 }
