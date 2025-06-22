@@ -1,4 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/energysynergy",
-  "promos": {}
+  "promos": {
+    "1.12.2-recommended": "1.1.4",
+    "1.12.2-latest": "1.1.4"
+  },
+  "1.12.2": {
+    "1.1.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energysynergy/files/2689275"
+  }
 }
