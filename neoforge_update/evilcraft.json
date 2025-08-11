@@ -1,14 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/evilcraft",
   "promos": {
-    "1.21.1-recommended": "1.2.76",
+    "1.21.1-recommended": "1.2.77",
     "1.21-recommended": "1.2.50",
     "1.20.4-recommended": "1.2.38",
-    "1.21.1-latest": "1.2.76",
+    "1.21.1-latest": "1.2.77",
     "1.21-latest": "1.2.50",
     "1.20.4-latest": "1.2.38"
   },
   "1.21.1": {
+    "1.2.77": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6870864",
     "1.2.76": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6863626",
     "1.2.75": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6828952",
     "1.2.74": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/6826121",
