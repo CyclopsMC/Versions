@@ -1,9 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/structured-crafting",
   "promos": {
-    "1.21.1-recommended": "0.2.12",
-    "1.20.1-recommended": "0.2.6",
-    "1.19.2-recommended": "0.2.6",
+    "1.21.1-recommended": "0.2.13",
+    "1.20.1-recommended": "0.2.7",
+    "1.19.2-recommended": "0.2.7",
     "1.18.2-recommended": "0.2.5",
     "1.19.4-recommended": "0.2.5",
     "1.19.3-recommended": "0.2.5",
@@ -13,9 +13,9 @@
     "1.15.2-recommended": "0.2.2",
     "1.14.4-recommended": "0.2.2",
     "1.12.2-recommended": "0.2.1",
-    "1.21.1-latest": "0.2.12",
-    "1.20.1-latest": "0.2.6",
-    "1.19.2-latest": "0.2.6",
+    "1.21.1-latest": "0.2.13",
+    "1.20.1-latest": "0.2.7",
+    "1.19.2-latest": "0.2.7",
     "1.18.2-latest": "0.2.5",
     "1.19.4-latest": "0.2.5",
     "1.19.3-latest": "0.2.5",
@@ -27,6 +27,7 @@
     "1.12.2-latest": "0.2.1"
   },
   "1.21.1": {
+    "0.2.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6992310",
     "0.2.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6563530",
     "0.2.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6522559",
     "0.2.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6519126",
@@ -35,10 +36,12 @@
     "0.2.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/5692593"
   },
   "1.20.1": {
+    "0.2.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6992257",
     "0.2.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/4905432",
     "0.2.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/4620469"
   },
   "1.19.2": {
+    "0.2.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/6992241",
     "0.2.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/4905427",
     "0.2.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/4392534",
     "0.2.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/structured-crafting/files/3929846"
