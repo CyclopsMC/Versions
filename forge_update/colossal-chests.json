@@ -1,9 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/colossal-chests",
   "promos": {
-    "1.21.1-recommended": "1.8.13",
-    "1.20.1-recommended": "1.8.6",
-    "1.19.2-recommended": "1.9.2",
+    "1.21.1-recommended": "1.8.14",
+    "1.20.1-recommended": "1.8.7",
+    "1.19.2-recommended": "1.9.3",
     "1.19.4-recommended": "1.8.4",
     "1.18.2-recommended": "1.9.0",
     "1.19.3-recommended": "1.8.4",
@@ -14,9 +14,9 @@
     "1.15.2-recommended": "1.7.12",
     "1.14.4-recommended": "1.7.6",
     "1.12.2-recommended": "1.7.3",
-    "1.21.1-latest": "1.8.13",
-    "1.20.1-latest": "1.8.6",
-    "1.19.2-latest": "1.9.2",
+    "1.21.1-latest": "1.8.14",
+    "1.20.1-latest": "1.8.7",
+    "1.19.2-latest": "1.9.3",
     "1.19.4-latest": "1.8.4",
     "1.18.2-latest": "1.9.0",
     "1.19.3-latest": "1.8.4",
@@ -29,6 +29,7 @@
     "1.12.2-latest": "1.7.3"
   },
   "1.21.1": {
+    "1.8.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/7098834",
     "1.8.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6879629",
     "1.8.12": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6224823",
     "1.8.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6102439",
@@ -38,10 +39,12 @@
     "1.8.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/5797506"
   },
   "1.20.1": {
+    "1.8.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/7098765",
     "1.8.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6224796",
     "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4620461"
   },
   "1.19.2": {
+    "1.9.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/7098753",
     "1.9.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/6224783",
     "1.9.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/4502150",
     "1.8.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/colossal-chests/files/3929872"
