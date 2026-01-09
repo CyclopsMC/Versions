@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="
+           http://maven.apache.org/POM/4.0.0
+           http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.cyclops</groupId>
+  <artifactId>cyclopspack</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.cyclops.cyclopscore</groupId>
+      <artifactId>cyclopscore-1.21.1-neoforge</artifactId>
+      <version>1.28.0-879</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.cyclops.flopper</groupId>
+      <artifactId>flopper-1.21.1-neoforge</artifactId>
+      <version>1.1.8-198</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.cyclops.commoncapabilities</groupId>
+      <artifactId>commoncapabilities-1.21.1-neoforge</artifactId>
+      <version>2.11.3-305</version>
+    </dependency>
+  </dependencies>
+</project>
