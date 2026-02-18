@@ -1,8 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
   "promos": {
-    "1.20.1-recommended": "1.6.17",
-    "1.19.2-recommended": "1.6.15",
+    "1.20.1-recommended": "1.6.18",
+    "1.19.2-recommended": "1.6.16",
     "1.18.2-recommended": "1.4.12",
     "1.19.4-recommended": "1.4.8",
     "1.19.3-recommended": "1.4.6",
@@ -12,8 +12,8 @@
     "1.16.4-recommended": "1.1.0",
     "1.15.2-recommended": "1.0.16",
     "1.12.2-recommended": "1.0.14",
-    "1.20.1-latest": "1.6.17",
-    "1.19.2-latest": "1.6.15",
+    "1.20.1-latest": "1.6.18",
+    "1.19.2-latest": "1.6.16",
     "1.18.2-latest": "1.4.12",
     "1.19.4-latest": "1.4.8",
     "1.19.3-latest": "1.4.6",
@@ -25,6 +25,7 @@
     "1.12.2-latest": "1.0.14"
   },
   "1.20.1": {
+    "1.6.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7638140",
     "1.6.17": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7473410",
     "1.6.16": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7438445",
     "1.6.15": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7400609",
@@ -56,6 +57,7 @@
     "1.4.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/4620507"
   },
   "1.19.2": {
+    "1.6.16": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7638126",
     "1.6.15": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7473403",
     "1.6.14": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7257795",
     "1.6.13": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7229000",
