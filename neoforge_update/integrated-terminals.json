@@ -1,14 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
   "promos": {
-    "1.21.1-recommended": "1.6.27",
+    "1.21.1-recommended": "1.6.28",
     "1.21-recommended": "1.5.0",
     "1.20.4-recommended": "1.4.13",
-    "1.21.1-latest": "1.6.27",
+    "1.21.1-latest": "1.6.28",
     "1.21-latest": "1.5.0",
     "1.20.4-latest": "1.4.13"
   },
   "1.21.1": {
+    "1.6.28": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7738429",
     "1.6.27": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7727944",
     "1.6.25": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7638172",
     "1.6.24": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/7473420",
