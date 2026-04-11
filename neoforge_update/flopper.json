@@ -1,12 +1,17 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/flopper",
   "promos": {
+    "26.1.1-recommended": "1.1.8",
     "1.21.1-recommended": "1.1.8",
     "1.21-recommended": "1.1.5",
     "1.20.4-recommended": "1.1.5",
+    "26.1.1-latest": "1.1.8",
     "1.21.1-latest": "1.1.8",
     "1.21-latest": "1.1.5",
     "1.20.4-latest": "1.1.5"
+  },
+  "26.1.1": {
+    "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/7904508"
   },
   "1.21.1": {
     "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/flopper/files/5826850",

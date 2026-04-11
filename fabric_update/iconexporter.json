@@ -1,8 +1,13 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/iconexporter",
   "promos": {
+    "26.1.1-recommended": "1.4.0",
     "1.21.1-recommended": "1.4.0",
+    "26.1.1-latest": "1.4.0",
     "1.21.1-latest": "1.4.0"
+  },
+  "26.1.1": {
+    "1.4.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/iconexporter/files/7904561"
   },
   "1.21.1": {
     "1.4.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/iconexporter/files/7210831",
