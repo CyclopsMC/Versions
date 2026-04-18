@@ -1,12 +1,13 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/everlastingabilities",
   "promos": {
-    "26.1.1-recommended": "2.5.6",
+    "26.1.1-recommended": "2.5.7",
     "1.21.1-recommended": "2.5.6",
-    "26.1.1-latest": "2.5.6",
+    "26.1.1-latest": "2.5.7",
     "1.21.1-latest": "2.5.6"
   },
   "26.1.1": {
+    "2.5.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/7940334",
     "2.5.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/7904514"
   },
   "1.21.1": {
