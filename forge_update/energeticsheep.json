@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/energeticsheep",
   "promos": {
+    "26.1.2-recommended": "1.1.19",
     "26.1.1-recommended": "1.1.18",
     "1.21.1-recommended": "1.1.18",
     "1.19.2-recommended": "1.1.14",
@@ -14,6 +15,7 @@
     "1.15.2-recommended": "1.1.7",
     "1.14.4-recommended": "1.1.6",
     "1.12.2-recommended": "1.1.5",
+    "26.1.2-latest": "1.1.19",
     "26.1.1-latest": "1.1.18",
     "1.21.1-latest": "1.1.18",
     "1.19.2-latest": "1.1.14",
@@ -27,6 +29,10 @@
     "1.15.2-latest": "1.1.7",
     "1.14.4-latest": "1.1.6",
     "1.12.2-latest": "1.1.5"
+  },
+  "26.1.2": {
+    "1.1.19": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/7968311",
+    "1.1.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/7968278"
   },
   "26.1.1": {
     "1.1.18": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/energeticsheep/files/7904517"
