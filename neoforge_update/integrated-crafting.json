@@ -1,24 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
   "promos": {
-    "26.1.2-recommended": "1.4.5",
+    "1.21.1-recommended": "1.4.6",
+    "26.1.2-recommended": "1.4.6",
     "26.1.1-recommended": "1.4.5",
-    "1.21.1-recommended": "1.4.5",
     "1.21-recommended": "1.1.8",
     "1.20.4-recommended": "1.1.7",
-    "26.1.2-latest": "1.4.5",
+    "1.21.1-latest": "1.4.6",
+    "26.1.2-latest": "1.4.6",
     "26.1.1-latest": "1.4.5",
-    "1.21.1-latest": "1.4.5",
     "1.21-latest": "1.1.8",
     "1.20.4-latest": "1.1.7"
   },
-  "26.1.2": {
-    "1.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7973591"
-  },
-  "26.1.1": {
-    "1.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7904550"
-  },
   "1.21.1": {
+    "1.4.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7988198",
     "1.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7734015",
     "1.4.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7614765",
     "1.4.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7560762",
@@ -42,6 +37,13 @@
     "1.1.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5847740",
     "1.1.10": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5650226",
     "1.1.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5612235"
+  },
+  "26.1.2": {
+    "1.4.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7987652",
+    "1.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7973591"
+  },
+  "26.1.1": {
+    "1.4.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/7904550"
   },
   "1.21": {
     "1.1.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/5560220",
