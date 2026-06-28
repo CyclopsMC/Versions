@@ -16,5 +16,4 @@ integrated-dynamics
 integrated-rest
 integrated-terminals
 integrated-tunnels
-integrated-mekanism
 structured-crafting
