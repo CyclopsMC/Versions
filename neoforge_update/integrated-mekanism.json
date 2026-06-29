@@ -1,0 +1,14 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism",
+  "promos": {
+    "1.21.1-recommended": "1.0.4",
+    "1.21.1-latest": "1.0.4"
+  },
+  "1.21.1": {
+    "1.0.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism/files/7742683",
+    "1.0.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism/files/7207626",
+    "1.0.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism/files/7098907",
+    "1.0.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism/files/7093862",
+    "1.0.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism/files/7081663"
+  }
+}
