@@ -18,4 +18,5 @@ integrated-terminals
 integrated-tunnels
 integrated-scripting
 integrated-mekanism
+integrated-nbt
 structured-crafting
