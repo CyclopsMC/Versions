@@ -1,15 +1,17 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-nbt",
   "promos": {
-    "26.1.2-recommended": "1.6.1",
-    "1.21.1-recommended": "1.6.1",
-    "26.1.2-latest": "1.6.1",
-    "1.21.1-latest": "1.6.1"
+    "26.1.2-recommended": "1.6.2",
+    "1.21.1-recommended": "1.6.2",
+    "26.1.2-latest": "1.6.2",
+    "1.21.1-latest": "1.6.2"
   },
   "26.1.2": {
+    "1.6.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-nbt/files/8439204",
     "1.6.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-nbt/files/8425836"
   },
   "1.21.1": {
+    "1.6.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-nbt/files/8439191",
     "1.6.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-nbt/files/8417679"
   }
 }
