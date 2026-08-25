@@ -1,20 +1,21 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
   "promos": {
-    "1.21.1-recommended": "1.34.1",
-    "26.1.2-recommended": "1.33.9",
-    "1.20.1-recommended": "1.30.8",
+    "1.21.1-recommended": "1.35.0",
+    "26.1.2-recommended": "1.34.0",
+    "1.20.1-recommended": "1.31.0",
     "26.1.1-recommended": "1.32.11",
     "1.20.4-recommended": "1.21.8",
     "1.21-recommended": "1.23.1",
-    "1.21.1-latest": "1.34.1",
-    "26.1.2-latest": "1.33.9",
-    "1.20.1-latest": "1.30.8",
+    "1.21.1-latest": "1.35.0",
+    "26.1.2-latest": "1.34.0",
+    "1.20.1-latest": "1.31.0",
     "26.1.1-latest": "1.32.11",
     "1.20.4-latest": "1.21.8",
     "1.21-latest": "1.23.1"
   },
   "1.21.1": {
+    "1.35.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8725925",
     "1.34.1": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8679254",
     "1.34.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8563258",
     "1.33.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8469170",
@@ -96,6 +97,7 @@
     "1.23.2": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/5612228"
   },
   "26.1.2": {
+    "1.34.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8725901",
     "1.33.9": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8552920",
     "1.33.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8533415",
     "1.33.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8469199",
@@ -111,6 +113,7 @@
     "1.32.11": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/7973587"
   },
   "1.20.1": {
+    "1.31.0": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8725834",
     "1.30.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/8469140"
   },
   "26.1.1": {
