@@ -3,11 +3,13 @@
   "promos": {
     "26.1.2-recommended": "1.0.28",
     "1.21.1-recommended": "1.0.27",
+    "1.20.1-recommended": "1.0.19",
     "26.1.1-recommended": "1.0.21",
     "1.21-recommended": "1.0.5",
     "1.20.4-recommended": "1.0.3",
     "26.1.2-latest": "1.0.28",
     "1.21.1-latest": "1.0.27",
+    "1.20.1-latest": "1.0.19",
     "26.1.1-latest": "1.0.21",
     "1.21-latest": "1.0.5",
     "1.20.4-latest": "1.0.3"
@@ -42,6 +44,9 @@
     "1.0.8": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/5995566",
     "1.0.7": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/5927372",
     "1.0.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/5833725"
+  },
+  "1.20.1": {
+    "1.0.19": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/8813488"
   },
   "26.1.1": {
     "1.0.21": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/integrated-scripting/files/7904575"
