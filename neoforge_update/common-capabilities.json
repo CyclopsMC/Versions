@@ -1,18 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities",
   "promos": {
-    "1.21.1-recommended": "2.11.5",
+    "1.21.1-recommended": "2.11.6",
     "26.1.2-recommended": "2.11.8",
     "26.1.1-recommended": "2.11.4",
     "1.20.4-recommended": "2.9.2",
     "1.21-recommended": "2.9.2",
-    "1.21.1-latest": "2.11.5",
+    "1.21.1-latest": "2.11.6",
     "26.1.2-latest": "2.11.8",
     "26.1.1-latest": "2.11.4",
     "1.20.4-latest": "2.9.2",
     "1.21-latest": "2.9.2"
   },
   "1.21.1": {
+    "2.11.6": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/8859298",
     "2.11.5": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/8247199",
     "2.11.4": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/7756804",
     "2.11.3": "Download and changelog available at https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/7361876",
